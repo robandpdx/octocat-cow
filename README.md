@@ -8,7 +8,7 @@ Install figlet: `brew install figlet`
 Install lolcat: `brew install lolcat`  
 
 Copy the octacat.cow file to...  
-`/System/Volumes/Data/opt/homebrew/Cellar/cowsay/3.04_1/share/cows/`  
+`/System/Volumes/Data/opt/homebrew/Cellar/cowsay/3.8.4/share/cowsay/cows/`  
 ... or wherever the hell your cow files are.
 
 Now test it out...  
